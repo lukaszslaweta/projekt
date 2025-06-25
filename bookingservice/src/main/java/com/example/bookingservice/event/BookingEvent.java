@@ -1,4 +1,4 @@
-package com.example.bookingservice.event
+package com.example.bookingservice.event;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
